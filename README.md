@@ -3,7 +3,7 @@
 ### Introduction
 I stumbled upon this project while exploring a pizza sales dataset I came across online, thanks to Maven Analytics.
 
-I've used Python for this project.
+* I've used Python for this project.
 - Data cleaning and transformation to prepare the dataset.
 - Utilized popular libraries such as pandas and numpy for data manipulation.  
 - Created visualizations using the Plotly library to present insights and findings.
