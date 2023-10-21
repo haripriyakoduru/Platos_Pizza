@@ -9,7 +9,7 @@ This project is based on real-world pizza sales data I found on Maven Analytics.
    - [Project Description](#project-description)
    - [Data Sources](#data-sources)
    - [Installation](#installation)
-- [Conclusion](#conclusion)
+- [Conclusion and Recommendations](#conclusion)
 - [Author](#author)
 - [Questions or Issues](#questions-or-issues)
 
@@ -37,7 +37,7 @@ Download and install Python from the official [Python website](https://www.pytho
   - [Pandas](https://pandas.pydata.org/)
   - [NumPy](https://numpy.org/)
 
-### Conclusion
+### Conclusion and Recommendations:
 
 Recommendations to improve sales and work efficiency:
 
