@@ -74,6 +74,6 @@ Haripriya K.
 LinkedIn Profile: [Haripriya Koduru](https://www.linkedin.com/in/haripriyakoduru/)
 
 ### Questions or Issues:
-- If you have any questions or encounter issues with this project, please feel free to [open an issue](https://github.com/haripriyakoduru/Platos_Pizza/issues) on our GitHub repository.
-- I welcome your feedback and will do our best to address any concerns or inquiries you may have. Your input is valuable in helping me improve this project.
+- If you have any questions or encounter issues with this project, please feel free to [open an issue](https://github.com/haripriyakoduru/Platos_Pizza/issues) on my GitHub repository.
+- I welcome your feedback and will do my best to address any concerns or inquiries you may have. Your input is valuable in helping me improve this project.
 
