@@ -7,17 +7,17 @@ This project is based on real-world pizza sales data I found on Maven Analytics.
 
 **Table of Contents**:
    - [Project Description](#project-description)
-   - [Data Sources](#3-data-sources)
-   - [Folder Structure](#4-folder-structure)
-   - [Installation](#5-installation)
-   - [Usage](#6-usage)
-   - [Analysis and Results](#7-analysis-and-results)
-   - [Contributing](#8-contributing)
-   - [License](#9-license)
-   - [Author](#10-author)
-   - [Acknowledgments](#11-acknowledgments)
-   - [References](#12-references)
-   - [Conclusion](#13-conclusion)
+   - [Data Sources](#data-sources)
+   - [Installation](#installation)
+- [Usage](#usage)
+- [Analysis and Results](#analysis-and-results)
+- [Contributing](#contributing)
+- [License](#license)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+- [References](#references)
+- [Questions or Issues](#questions-or-issues)
+- [Conclusion](#conclusion)
 
 ### Project Description:
    - Explore and analyze pizza sales data to make data-driven recommendations for improving sales and operational efficiency.
@@ -29,9 +29,14 @@ This project is based on real-world pizza sales data I found on Maven Analytics.
 - Minimal preprocessing was performed, focusing on date and time column adjustments for compatibility. The data was already clean and ready for analysis.
 - All dataset files are included within the project repository.
 
-## Tools and Concepts Applied:
-I've used Python for data analysis and applied essential concepts like data cleaning, transformation, and visualization using popular libraries such as Pandas, NumPy, and Plotly.
-
+## Installation
+Download and install Python from the official [Python website](https://www.python.org/downloads/).
+- Required Python libraries:
+  - [Plotly Express](https://plotly.com/python/plotly-express/)
+  - [Plotly Graph Objects](https://plotly.com/python/graph-objects/)
+  - [Plotly Subplots](https://plotly.com/python/creating-and-updating-figures/#creating-subplots)
+  - [Pandas](https://pandas.pydata.org/)
+  - [NumPy](https://numpy.org/)
 
 
 
