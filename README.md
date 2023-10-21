@@ -3,20 +3,19 @@
 
 ### Introduction:
 
-This project is based on real-world pizza sales data I found on Maven Analytics. It's a perfect dataset to explore and understand sales trends and operational efficiency.
+This project is based on imaginary pizza sales data I found on Maven Analytics. It's a perfect dataset to explore and understand sales trends and operational efficiency.
 
 **Table of Contents**:
    - [Project Description](#project-description)
    - [Data Sources](#data-sources)
-   - [Installation](#installation)
+   - [Tools Used](#tools-used)
 - [Conclusion and Recommendations](#conclusion)
 - [Author](#author)
 - [Questions or Issues](#questions-or-issues)
 
 ### Project Description:
 - Explore and analyze pizza sales data to make data-driven recommendations for improving sales and operational efficiency.
--  Address questions about pizza sales, customer preferences, and business trends.
-- Used Python for data analysis and applied essential concepts like data transformation and visualization using popular libraries such as Pandas, NumPy, and Plotly.
+- Address questions about pizza sales, customer preferences, and business trends.
 
 ### Data Sources:
 - The dataset was obtained from Maven Analytics and is publicly accessible.
@@ -29,17 +28,23 @@ It contains 4 sheets/tables:
 3. PIZZAS
 4. PIZZA_TYPES
 
-### Installation:
-Download and install Python from the official [Python website](https://www.python.org/downloads/).
-- Required Python libraries:
-  - [Plotly Express](https://plotly.com/python/plotly-express/)
-  - [Plotly Graph Objects](https://plotly.com/python/graph-objects/)
-  - [Plotly Subplots](https://plotly.com/python/creating-and-updating-figures/#creating-subplots)
-  - [Pandas](https://pandas.pydata.org/)
-  - [NumPy](https://numpy.org/)
+### Tools Used:
+**Python** for data analysis and applied essential concepts like data transformation and visualization.
+
+Utilzed Python libraries such as:
+- Pandas
+- Numpy
+- Plotly
+
+### Skills/Concepts Demonstrated:
+1. Data Manipulation
+2. Data Visualization
+3. Data Cleaning
+4. Statistical Analysis
+5. Problem Solving
+6. Communication
 
 ### Conclusion and Recommendations:
-
 Recommendations to improve sales and work efficiency:
 
 **Sales**:
