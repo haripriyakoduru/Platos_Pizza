@@ -9,13 +9,7 @@ This project is based on real-world pizza sales data I found on Maven Analytics.
    - [Project Description](#project-description)
    - [Data Sources](#data-sources)
    - [Installation](#installation)
-- [Usage](#usage)
-- [Analysis and Results](#analysis-and-results)
-- [Contributing](#contributing)
-- [License](#license)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-- [References](#references)
 - [Questions or Issues](#questions-or-issues)
 - [Conclusion](#conclusion)
 
@@ -29,7 +23,7 @@ This project is based on real-world pizza sales data I found on Maven Analytics.
 - Minimal preprocessing was performed, focusing on date and time column adjustments for compatibility. The data was already clean and ready for analysis.
 - All dataset files are included within the project repository.
 
-## Installation
+### Installation:
 Download and install Python from the official [Python website](https://www.python.org/downloads/).
 - Required Python libraries:
   - [Plotly Express](https://plotly.com/python/plotly-express/)
@@ -37,6 +31,14 @@ Download and install Python from the official [Python website](https://www.pytho
   - [Plotly Subplots](https://plotly.com/python/creating-and-updating-figures/#creating-subplots)
   - [Pandas](https://pandas.pydata.org/)
   - [NumPy](https://numpy.org/)
+
+### Author:
+Haripriya K.
+LinkedIn Profile: [Haripriya Koduru](https://www.linkedin.com/in/haripriyakoduru/)
+
+### Questions or Issues:
+- If you have any questions or encounter issues with this project, please feel free to [open an issue](https://github.com/your-username/your-repo-name/issues) on our GitHub repository.
+- I welcome your feedback and will do our best to address any concerns or inquiries you may have. Your input is valuable in helping me improve this project.
 
 
 
