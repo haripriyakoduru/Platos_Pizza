@@ -22,6 +22,11 @@ This project is based on real-world pizza sales data I found on Maven Analytics.
 **Project Description**:
    - Explore and analyze pizza sales data to make data-driven recommendations for improving sales and operational efficiency.
 
+**Data Sources**:
+- The dataset was obtained from Maven Analytics and is publicly accessible.
+- Minimal preprocessing was performed, focusing on date and time column adjustments for compatibility. The data was already clean and ready for analysis.
+- All dataset files are included within the project repository.
+
 **Tools and Concepts Applied**:
 I've used Python for data analysis and applied essential concepts like data cleaning, transformation, and visualization using popular libraries such as Pandas, NumPy, and Plotly.
 ### Problem Description
