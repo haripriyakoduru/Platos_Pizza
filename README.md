@@ -17,6 +17,7 @@ This project is based on real-world pizza sales data I found on Maven Analytics.
    - [Acknowledgments](#11-acknowledgments)
    - [References](#12-references)
    - [Conclusion](#13-conclusion)
+
 **Project Description**:
    - Explore and analyze pizza sales data to make data-driven recommendations for improving sales and operational efficiency.
 
