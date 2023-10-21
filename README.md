@@ -1,10 +1,27 @@
 # Platos Pizza Sales Analysis
 ![lll](https://github.com/haripriyakoduru/Platos_Pizza/assets/131605099/b6c8201f-349d-4a52-bf77-d96da175754e)
 ### Introduction
-I stumbled upon this project while exploring a pizza sales dataset I came across online, thanks to Maven Analytics.
+This project is based on real-world pizza sales data I found on Maven Analytics. It's a perfect dataset to explore and understand sales trends and operational efficiency.
 
-* I've used Python for this project.
-- Data cleaning and transformation to prepare the dataset.
-- Utilized popular libraries such as pandas and numpy for data manipulation.  
-- Created visualizations using the Plotly library to present insights and findings.
-### Problllem Statement 
+**Table of Contents**:
+   - [Introduction](#1-introduction)
+   - [Project Description](#2-project-description)
+   - [Data Sources](#3-data-sources)
+   - [Folder Structure](#4-folder-structure)
+   - [Installation](#5-installation)
+   - [Usage](#6-usage)
+   - [Analysis and Results](#7-analysis-and-results)
+   - [Contributing](#8-contributing)
+   - [License](#9-license)
+   - [Author](#10-author)
+   - [Acknowledgments](#11-acknowledgments)
+   - [References](#12-references)
+   - [Conclusion](#13-conclusion)
+**Project Description**:
+   - Explore and analyze pizza sales data to make data-driven recommendations for improving sales and operational efficiency.
+
+**Tools and Concepts Applied**:
+I've used Python for data analysis and applied essential concepts like data cleaning, transformation, and visualization using popular libraries such as Pandas, NumPy, and Plotly.
+### Problem Description
+
+
