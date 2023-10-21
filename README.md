@@ -40,6 +40,7 @@ Download and install Python from the official [Python website](https://www.pytho
 ### Conclusion
 
 **Recommendations to improve sales and work efficiency**:
+
 **Sales**:
 
 1. **Prioritize Top Performers**: First, focus on promoting pizzas that excel in both revenue and units sold.
@@ -63,6 +64,7 @@ Download and install Python from the official [Python website](https://www.pytho
 
 ### Author:
 Haripriya K.
+
 LinkedIn Profile: [Haripriya Koduru](https://www.linkedin.com/in/haripriyakoduru/)
 
 ### Questions or Issues:
