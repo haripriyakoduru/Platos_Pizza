@@ -39,7 +39,7 @@ Download and install Python from the official [Python website](https://www.pytho
 
 ### Conclusion
 
-**Recommendations to improve sales and work efficiency**:
+Recommendations to improve sales and work efficiency:
 
 **Sales**:
 
