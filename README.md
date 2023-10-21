@@ -37,8 +37,30 @@ Haripriya K.
 LinkedIn Profile: [Haripriya Koduru](https://www.linkedin.com/in/haripriyakoduru/)
 
 ### Questions or Issues:
-- If you have any questions or encounter issues with this project, please feel free to [open an issue](https://github.com/your-username/your-repo-name/issues) on our GitHub repository.
+- If you have any questions or encounter issues with this project, please feel free to [open an issue](https://github.com/haripriyakoduru/Platos_Pizza/issues) on our GitHub repository.
 - I welcome your feedback and will do our best to address any concerns or inquiries you may have. Your input is valuable in helping me improve this project.
+
+### Conclusion
+
+#### Sales:
+
+1. **Prioritize Top Performers**: First, focus on promoting pizzas that excel in both revenue and units sold.
+
+2. **Revenue Focus**: Secondly, give priority to pizzas with the highest revenue figures.
+
+3. **Classic Category**: The Classic category consistently stands out in both revenue and units sold. It should be your primary focus. Consider promoting the Supreme category next.
+
+4. **Price Adjustment**: To diversify sales, consider adjusting pricing strategies to attract more customers to categories other than Classic, as customers tend to favor it due to its affordability.
+
+#### Work Efficiency:
+
+1. **Optimize Table Arrangement**: With 67% of customers ordering at least 2 pizzas, consider rearranging seating to accommodate more two-seat tables and expanding the total table count.
+
+2. **Popular Sizes**: Smaller (S-L) pizza sizes are more popular, likely due to their lower prices.
+
+3. **Peak Times**: Fridays, evenings, and afternoons are the busiest times, with 12-1 pm being the peak hour. Be prepared for high demand during these hours.
+
+4. **Top Months**: High foot traffic is observed in July, May, November, March, and January. Plan accordingly for these peak months.
 
 
 
