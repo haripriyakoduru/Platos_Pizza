@@ -9,7 +9,7 @@ This project is based on imaginary pizza sales data I found on Maven Analytics. 
    - [Project Description](#project-description)
    - [Data Sources](#data-sources)
    - [Tools Used](#tools-used)
-   - [Skills/Concepts Demonstrated](#skills-concepts-demonstrated)
+   - [Skills Demonstrated](#skills-demonstrated)
 - [Conclusion and Recommendations](#conclusion-and-recommendations)
 - [Author](#author)
 - [Questions or Issues](#questions-or-issues)
@@ -37,7 +37,7 @@ Utilzed Python libraries such as:
 - Numpy
 - Plotly
 
-### Skills/Concepts Demonstrated:
+### Skills Demonstrated:
 1. Data Manipulation
 2. Data Visualization
 3. Data Cleaning
