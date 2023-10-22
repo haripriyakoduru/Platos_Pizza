@@ -9,7 +9,7 @@ This project is based on imaginary pizza sales data I found on Maven Analytics. 
    - [Project Description](#project-description)
    - [Data Sources](#data-sources)
    - [Tools Used](#tools-used)
-   - [Skills Demonstrated](#skills/concepts-demonstrated)
+   - [Skills/Concepts Demonstrated](#skills/concepts-demonstrated)
 - [Conclusion and Recommendations](#conclusion-and-recommendations)
 - [Author](#author)
 - [Questions or Issues](#questions-or-issues)
